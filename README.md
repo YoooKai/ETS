@@ -4,7 +4,8 @@
 
 ### 5th Edition
 
-![Header](dnd_home_phb_bannerv4.png)
+![Uploading dnd_home_phb_bannerv4.png…]()
+
 
 <p>Dungeons & Dragons was first published in 1974 by Gary Gygax and Dave Arneson, when they were seeking to create a game that focused on personalized battles with individual heroes. The 1st edition of the game was mailed in a faux wood colored cardboard box that contained three adventure booklets: Men & Magic, Monsters & Treasure, and Underworld & Wilderness Adventures. 40 years of adventure later, the 5th edition was released and kicked off the roleplaying renaissance that we’re seeing today.</p>
 
