@@ -4,9 +4,13 @@
 
 ### 5th Edition
 
-![](https://images.ctfassets.net/swt2dsco9mfe/44zK1a6M3Stmw2fRVhkvDb/e3788c0fb5d6f1962038b468d557e605/dnd_home_phb_bannerv4.png?q=70&w=1920)
+![Header](dnd_home_phb_bannerv4.png)
 
 <p>Dungeons & Dragons was first published in 1974 by Gary Gygax and Dave Arneson, when they were seeking to create a game that focused on personalized battles with individual heroes. The 1st edition of the game was mailed in a faux wood colored cardboard box that contained three adventure booklets: Men & Magic, Monsters & Treasure, and Underworld & Wilderness Adventures. 40 years of adventure later, the 5th edition was released and kicked off the roleplaying renaissance that we’re seeing today.</p>
+
+<!--Cita-->
+
+> "Role-playing games have been a huge part of my life and a huge part of my training as a performer - learning social skills, meeting friends, and being a generally competent person - so I owe a lot to role-playing games." — Matthew Mercer
 
 <!--cómo se juega-->
 
@@ -19,6 +23,9 @@ The adventure itself is only limited by the imagination of the players around th
 <!--Listado de cosas por hacer para comenzar a jugar-->
 
 ## GETTING STARTED
+
+> “The secret we should never let the gamemasters know is that they don't need any rules.”
+> ― Gary Gygax
 
 ## Basics
 
@@ -215,6 +222,10 @@ The adventure itself is only limited by the imagination of the players around th
 
 ---
 
+<!-- link -->
+
+[You can learn more here!](https://www.dndbeyond.com/classes)
+
 <!--links de hechizos por clase-->
 
 ## SPELLS :fire:
@@ -247,6 +258,8 @@ Creating your first D&D character sheet can initially feel like navigating a lab
 
 You can also create programs easily to simulate dice rolling and play DND with your friends online. For example:
 
+- Code to reoll a d20:
+
 ```python
 import random
 
@@ -256,5 +269,48 @@ def roll_d20():
 # Example usage
 result = roll_d20()
 print(f"Rolling a d20: {result}")
+
+```
+
+- Code to roll a d8:
+
+```python
+import random
+
+def roll_d8():
+    return random.randint(1, 8)
+
+# Example usage
+result = roll_d8()
+print(f"The result of rolling a d8 is: {result}")
+
+
+```
+
+- You can also practise XML by writing your character characteristics in a file, for example:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<character>
+    <name>Gandalf the Grey</name>
+    <class>Wizard</class>
+    <level>10</level>
+    <race>Human</race>
+    <alignment>Neutral Good</alignment>
+    <background>Grey Pilgrim</background>
+    <attributes>
+        <strength>12</strength>
+        <dexterity>14</dexterity>
+        <constitution>10</constitution>
+        <intelligence>18</intelligence>
+        <wisdom>16</wisdom>
+        <charisma>16</charisma>
+    </attributes>
+    <equipment>
+        <weapon>Staff of Power</weapon>
+        <armor>Robes of the Archmagi</armor>
+        <item>Ring of Fire Resistance</item>
+    </equipment>
+</character>
 
 ```
