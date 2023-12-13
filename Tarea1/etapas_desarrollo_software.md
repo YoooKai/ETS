@@ -83,11 +83,11 @@ En esta fase también pueden realizarse pruebas unitarias que definirán la vers
 
 La prueba de software es el proceso de evaluar y verificar que un producto o aplicación de software hace lo que se supone que debe hacer. Los beneficios de las pruebas incluyen la prevención de errores, la reducción de los costos de desarrollo y la mejora del rendimiento.
 
-<img src="https://res.cloudinary.com/pym/image/upload/f_auto/v1/articles/2019/testing/tipos-prueba-software.png" height="200px">
+<img src="https://res.cloudinary.com/pym/image/upload/f_auto/v1/articles/2019/testing/tipos-prueba-software.png" height="300px">
 
 - ## Unitarias
 
-<img src="https://autify.com/wp-content/uploads/2022/08/what-is-unit-testing-min.jpg" height="200px">
+<img src="https://autify.com/wp-content/uploads/2022/08/what-is-unit-testing-min.jpg" height="300px">
 
 Las pruebas unitarias consisten en aislar una parte del código y comprobar que funciona a la perfección. Son pequeños tests que validan el comportamiento de un objeto y la lógica.
 
@@ -103,7 +103,7 @@ Realizar pruebas unitarias con regularidad supone, al final, un ahorro de tiempo
 
 - ## De integración
 
-<img src="https://blog.shiftasia.com/content/images/2021/12/Integration-Testing.png" height="200px">
+<img src="https://blog.shiftasia.com/content/images/2021/12/Integration-Testing.png" height="300px">
 
 Las pruebas de integración o pruebas integradas se definen como un mecanismo de testeo de software, donde se realiza un análisis de los procesos relacionados con el ensamblaje o unión de los componentes, sus comportamientos con múltiples partes del sistema (ya sea de archivos operativos) o de hardware, entre otras.
 
@@ -111,13 +111,13 @@ De modo que las pruebas de integración están a cargo del examen de las interfa
 
 ## EXPLOTACIÓN
 
-<img src="https://www.turing.com/blog/wp-content/uploads/2022/05/Top-Software-Developer-Skills-to-Learn-This-Year-for-Tech-Jobs-scaled.jpg" height="200px">
+<img src="https://www.turing.com/blog/wp-content/uploads/2022/05/Top-Software-Developer-Skills-to-Learn-This-Year-for-Tech-Jobs-scaled.jpg" height="300px">
 
 La explotación en el contexto del desarrollo de software se refiere a la fase en la que el software es implementado y puesto en funcionamiento para su uso continuo. En esta etapa, el sistema se ejecuta en un entorno operativo real, y los usuarios comienzan a utilizarlo para llevar a cabo las tareas previstas. La explotación implica la gestión y supervisión continua del software para garantizar su correcto funcionamiento, eficiencia y seguridad. También puede incluir la aplicación de actualizaciones y parches para corregir posibles problemas y mejorar el rendimiento.
 
 ## MANTENIMIENTO
 
-<img src="https://www.standardfirms.com/wp-content/uploads/2023/04/Hire-Software-Maintenance-Team.png" height="200px">
+<img src="https://www.standardfirms.com/wp-content/uploads/2023/04/Hire-Software-Maintenance-Team.png" height="300px">
 
 El mantenimiento de software es la fase dedicada a la gestión y mejora continua del sistema después de su implementación. Se divide comúnmente en cuatro tipos de actividades:
 
@@ -134,7 +134,7 @@ El mantenimiento es esencial para asegurar que el software siga siendo efectivo 
 ## Documentación. 
 ### Tipos de documentos
 
-<img src="https://res.cloudinary.com/dfe4dvbuz/image/upload/f_auto/v1629771591/blog/Who_does_Documentation_belong_to_eh22mi" height="200px">
+<img src="https://res.cloudinary.com/dfe4dvbuz/image/upload/f_auto/v1629771591/blog/Who_does_Documentation_belong_to_eh22mi" height="300px">
 
 La documentación en el desarrollo de software comprende la creación y mantenimiento de registros escritos que describen diferentes aspectos del sistema. Estos documentos pueden incluir:
 
