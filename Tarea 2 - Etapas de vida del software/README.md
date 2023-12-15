@@ -1,6 +1,6 @@
 # Ciclos de Vida Software
 
-<img src="https://media.licdn.com/dms/image/C5612AQE-Cvyl68PUVw/article-cover_image-shrink_600_2000/0/1586939623971?e=2147483647&v=beta&t=qIjVah6OtLEn6PRoCdY8_RH0xLWXz6mXAETQ7EV_kYA" height="300px">
+<img src="https://inlogiq.com/wp-content/uploads/2021/11/CICLOS-DE-VIDA-DEL-SOFTWARE-Espana.png" height="300px">
 
 La esfera del desarrollo de software engloba diversas fases y funciones, tales como análisis, implementación y mantenimiento, así como la provisión de servicios como la formación y documentación.
 
