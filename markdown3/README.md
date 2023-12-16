@@ -1,10 +1,10 @@
 # Metodologías de Desarrollo de Software
 
-<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg">
+<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg" height="400px">
 
 ## Metodología tradicional
 
-<img src="https://3.bp.blogspot.com/-1U5knJeahPY/V-iNZa54gnI/AAAAAAAADaI/j4xuRaya_qkx3hKV8rBxY569ozuYRvnlwCLcB/s1600/TRADICIONAL%257D.png">
+<img src="https://3.bp.blogspot.com/-1U5knJeahPY/V-iNZa54gnI/AAAAAAAADaI/j4xuRaya_qkx3hKV8rBxY569ozuYRvnlwCLcB/s1600/TRADICIONAL%257D.png" height="400px" >
 
 El método tradicional, también conocido como **modelo en cascada**, representa un enfoque secuencial y lineal para el desarrollo de software. Este método sigue una estructura rígida de fases, donde cada fase debe completarse antes de pasar a la siguiente. Las fases típicas incluyen requisitos, diseño, implementación, prueba y mantenimiento. El método tradicional busca una planificación exhaustiva al principio del proyecto y está diseñado para proyectos con requisitos estables y bien definidos desde el inicio.
 
@@ -36,7 +36,7 @@ El mantenimiento implica la corrección de errores post-implementación y la rea
 
 ## Metodología ágil
 
-<img src="https://donetonic.com/wp-content/uploads/2023/04/que-es-la-metodologia-agile.png">
+<img src="https://donetonic.com/wp-content/uploads/2023/04/que-es-la-metodologia-agile.png" height="400px" >
 
 El método ágil es una filosofía de desarrollo de software que **se centra en la flexibilidad, adaptabilidad y entrega continua**. A diferencia del enfoque lineal del método tradicional, el ágil abraza la incertidumbre y responde a cambios en los requisitos a lo largo del tiempo. Se basa en la colaboración cercana entre los equipos de desarrollo y los stakeholders, así como en ciclos de desarrollo cortos llamados iteraciones. Las metodologías ágiles, como Scrum o Kanban, promueven la entrega incremental de software funcional y valor al cliente.
 
@@ -68,7 +68,7 @@ Finalmente, la fase de retiro incorpora actividades de fin de ciclo, notificaci�
 
 ## Elección para determinados casos:
 
-<img src="https://hygger.io/wp-content/uploads/2016/02/d7d11ceadde0ddbed67f3448273b2405-scaled.jpg">
+<img src="https://hygger.io/wp-content/uploads/2016/02/d7d11ceadde0ddbed67f3448273b2405-scaled.jpg" height="400px" >
 
 **Elección del Método para Control de Ventas:**
 
@@ -80,7 +80,7 @@ En términos generales, el método tradicional tiende a ser más costoso de impl
 
 ## Conclusión
 
-<img src="https://s7280.pcdn.co/wp-content/uploads/2019/05/Continuous-Delivery-and-Deployment-700x400.jpg.optimal.jpg">
+<img src="https://s7280.pcdn.co/wp-content/uploads/2019/05/Continuous-Delivery-and-Deployment-700x400.jpg.optimal.jpg" height="400px">
 
 La elección entre métodos tradicionales y ágiles en el desarrollo de software depende del contexto del proyecto, aunque en mi opinión el método ágil cuenta con mayores ventajas y menores inconvenientes. Sin embargo el método tradicional es ideal para proyectos con requisitos estables, pero puede volverse rígido frente a cambios. En contraste, el método ágil destaca en entornos dinámicos, permitiendo adaptabilidad y entregas incrementales.
 
