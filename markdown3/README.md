@@ -1,6 +1,6 @@
 # Metodologías de Desarrollo de Software
 
-<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg" height="400px">
+<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg">
 
 ## Metodología tradicional
 
@@ -80,7 +80,7 @@ En términos generales, el método tradicional tiende a ser más costoso de impl
 
 ## Conclusión
 
-<img src="https://s7280.pcdn.co/wp-content/uploads/2019/05/Continuous-Delivery-and-Deployment-700x400.jpg.optimal.jpg" height="400px">
+<img src="https://s7280.pcdn.co/wp-content/uploads/2019/05/Continuous-Delivery-and-Deployment-700x400.jpg.optimal.jpg" height="300px">
 
 La elección entre métodos tradicionales y ágiles en el desarrollo de software depende del contexto del proyecto, aunque en mi opinión el método ágil cuenta con mayores ventajas y menores inconvenientes. Sin embargo el método tradicional es ideal para proyectos con requisitos estables, pero puede volverse rígido frente a cambios. En contraste, el método ágil destaca en entornos dinámicos, permitiendo adaptabilidad y entregas incrementales.
 
