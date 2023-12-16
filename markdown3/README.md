@@ -1,6 +1,6 @@
 # Metodologías de Desarrollo de Software
 
-<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg" height="300px">
+<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg" height="370px">
 
 ## Metodología tradicional
 
