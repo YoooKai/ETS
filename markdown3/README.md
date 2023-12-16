@@ -1,10 +1,10 @@
 # Metodologías de Desarrollo de Software
 
-<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg">
+<img src="https://emprendecontuweb.com/wp-content/uploads/2023/07/metodologias-desarrollo-software.jpg" height="350px">
 
 ## Metodología tradicional
 
-<img src="https://3.bp.blogspot.com/-1U5knJeahPY/V-iNZa54gnI/AAAAAAAADaI/j4xuRaya_qkx3hKV8rBxY569ozuYRvnlwCLcB/s1600/TRADICIONAL%257D.png" height="400px" >
+<img src="https://3.bp.blogspot.com/-1U5knJeahPY/V-iNZa54gnI/AAAAAAAADaI/j4xuRaya_qkx3hKV8rBxY569ozuYRvnlwCLcB/s1600/TRADICIONAL%257D.png">
 
 El método tradicional, también conocido como **modelo en cascada**, representa un enfoque secuencial y lineal para el desarrollo de software. Este método sigue una estructura rígida de fases, donde cada fase debe completarse antes de pasar a la siguiente. Las fases típicas incluyen requisitos, diseño, implementación, prueba y mantenimiento. El método tradicional busca una planificación exhaustiva al principio del proyecto y está diseñado para proyectos con requisitos estables y bien definidos desde el inicio.
 
