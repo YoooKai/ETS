@@ -281,7 +281,7 @@ El resultado esperado de la Sprint Retrospective es la creación de un plan con 
 
 En el vídeo se resumen los puntos tratados con anterioridad
 
-[![Información sobre scrum](https://i.ytimg.com/vi/DT2NEBCAPHw/maxresdefault.jpg)](https://www.youtube.com/watch?v=DT2NEBCAPHw)
+[![Información sobre scrum](https://i.ytimg.com/vi/DT2NEBCAPHw/maxresdefault.jpg width="500px")](https://www.youtube.com/watch?v=DT2NEBCAPHw)
 
 Información más detallada sobre SCRUM para un mayor entendimiento (en inglés, se pueden activar los subtñitulos).
 
