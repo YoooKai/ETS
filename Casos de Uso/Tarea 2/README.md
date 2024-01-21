@@ -2,7 +2,7 @@
 
 Desarrollo de un diagrama de casos de uso para un sistema de biblioteca. Los actores pueden ser "Usuario" y "Bibliotecario". Algunos casos de uso podrían ser "Prestar Libro", "Devolver Libro", "Buscar Libro", etc.
 
-<img src="diagramasintitulo.png">
+<img src="diagramasintitulo.drawio.png">
 
 ## ACTORES
 
