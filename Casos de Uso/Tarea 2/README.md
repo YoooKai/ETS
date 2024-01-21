@@ -1,8 +1,8 @@
-# Aplicación de transporte -  Especificación de Casos de Uso
+# Sistema de Biblioteca
 
 Desarrollo de un diagrama de casos de uso para un sistema de biblioteca. Los actores pueden ser "Usuario" y "Bibliotecario". Algunos casos de uso podrían ser "Prestar Libro", "Devolver Libro", "Buscar Libro", etc.
 
-<img src="">
+<img src="diagramasintitulo.png">
 
 ## ACTORES
 
