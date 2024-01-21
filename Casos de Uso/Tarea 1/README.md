@@ -18,7 +18,7 @@ De acuerdo al siguiente diagrama, se debe realizar tablas de los casos de uso:
 
 ## Caso de uso
 
-| Caso de Uso CU | Definir Medio de Transporte |
+| Caso de Uso  | Definir Medio de Transporte |
 |---|---|
 | Fuentes | Documento de requisitos del sistema, *App Transport* |
 | Actor | Administrador |
