@@ -8,24 +8,24 @@ Desarrollo de un diagrama de casos de uso para un sistema de biblioteca. Los act
 
 | Actor | Usuario |
 |---|---|
-| Descripción | Usuarios que utilizan el sistema de biblioteca para buscar, prestar y devolver libros. |
-| Características | Tienen la capacidad para buscar libros según distintos parámetros como autor, de realizar préstamos y devoluciones. |
-| Relaciones | Interactúan con el caso de uso "Buscar Libro", "Prestar Libro", "Devolver Libro" con el bibliotecario cada vez que realizan un préstamo. |
-| Referencias | Buscar Libro, Prestar Libro, Devolver Libro |
-| Notas | Los usuarios pueden tener distintos niveles de acceso basados en su tipo.|
-| Autor | Kai Rodríguez García |
-| Fecha | 20/01/2024 |
+| **Descripción** | Usuarios que utilizan el sistema de biblioteca para buscar, prestar y devolver libros. |
+| **Características** | Tienen la capacidad para buscar libros según distintos parámetros como autor, de realizar préstamos y devoluciones. |
+| **Relaciones** | Interactúan con el caso de uso "Buscar Libro", "Prestar Libro", "Devolver Libro" con el bibliotecario cada vez que realizan un préstamo. |
+| **Referencias** | Buscar Libro, Prestar Libro, Devolver Libro |
+| **Notas** | Los usuarios pueden tener distintos niveles de acceso basados en su tipo.|
+| **Autor** | Kai Rodríguez García |
+| **Fecha** | 20/01/2024 |
 
 
 | Actor | Bibliotecario |
 |---|---|
-| Descripción | Individuo encargado de la gestión y administración del sistema bibliotecario. |
-| Características | Habilidad para gestionar el inventario de libros. Capacidad para registrar nuevos libros en el sistema. Responsable de supervisar préstamos y devoluciones. Acceso a informes y estadísticas sobre el uso de la biblioteca. |
-| Relaciones | Interactúa con el caso de uso "Actualizar Catálogo", "Prestar Libro", y "Devolver libro" pues tiene relación con el usuario al realizar préstamos. |
-| Referencias | Gestionar Inventario, Registrar Libro, Gestionar Préstamos, Prestar libro, Actualizar catálogo |
-| Notas | Puede acceder a los datos relacionados con la actividad de la biblioteca. |
-| Autor | Kai Rodríguez García |
-| Fecha | 20/01/2024 |
+| **Descripción** | Individuo encargado de la gestión y administración del sistema bibliotecario. |
+| **Características** | Habilidad para gestionar el inventario de libros. Capacidad para registrar nuevos libros en el sistema. Responsable de supervisar préstamos y devoluciones. Acceso a informes y estadísticas sobre el uso de la biblioteca. |
+| **Relaciones** | Interactúa con el caso de uso "Actualizar Catálogo", "Prestar Libro", y "Devolver libro" pues tiene relación con el usuario al realizar préstamos. |
+| **Referencias** | Gestionar Inventario, Registrar Libro, Gestionar Préstamos, Prestar libro, Actualizar catálogo |
+| **Notas** | Puede acceder a los datos relacionados con la actividad de la biblioteca. |
+| **Autor** | Kai Rodríguez García |
+| **Fecha** | 20/01/2024 |
 
 
 ## Casos de Uso
