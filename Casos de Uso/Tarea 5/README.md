@@ -3,6 +3,7 @@
 Creación de un diagrama de casos de uso para una aplicación de red social. Los actores pueden ser "Usuario" y "Administrador". Casos de uso incluyen "Publicar Mensaje", "Conectar con Amigos", "Eliminar Publicación", etc.
 
 <img src="Diagramasintitulo.drawio.png">
+
 ## Actores
 
 | Actor  | Cliente  |
@@ -25,7 +26,7 @@ Creación de un diagrama de casos de uso para una aplicación de red social. Los
 | Autor | Kai Rodríguez García |
 | Fecha | 21/01/2024 |
 
-## Caso de Uso
+## Casos de Uso
 
 | Caso de Uso | Publicar Mensaje  |
 |---|---|
