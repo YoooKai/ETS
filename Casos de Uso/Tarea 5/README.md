@@ -1,6 +1,7 @@
 # Aplicación de Red Social
 
 Creación de un diagrama de casos de uso para una aplicación de red social. Los actores pueden ser "Usuario" y "Administrador". Casos de uso incluyen "Publicar Mensaje", "Conectar con Amigos", "Eliminar Publicación", etc.
+
 <img src="Diagramasintitulo.drawio.png">
 ## Actores
 
