@@ -60,7 +60,7 @@ Creación de un diagrama de casos de uso para un sistema de gestión de tienda e
 | Fuentes  | Sistema de gestión de tienda en línea |
 | Actor  | Administrador  |
 | Descripción | Administrador tiene permiso de gestionar el inventario de productos de la tienda en línea.  |
-| Flujo básico | 1. El administrador accede a la sección de gestión de inventario y puede agregar, modificar o eliminar información de productos o productos. |
+| Flujo básico | El administrador accede a la sección de gestión de inventario y puede agregar, modificar o eliminar información de productos o productos. |
 | Pre-condiciones | El administrador tiene los permisos concedidos para realizar modificaciones. |
 | Post-condiciones  | El inventario se actualiza según los cambios del administrador.  |
 | Requerimientos | Acceso a la base de datos del sistema de la tienda.  |
