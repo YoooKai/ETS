@@ -109,3 +109,10 @@
 | Requerimientos    | La aplicación móvil debe estar vinculada a la cuenta bancaria y ser compatible con la función de cargar dinero.                                                                                                                                                                                                        |
 | Autor             | Kai Rodríguez García                                                                                                                                                                                                                                                                                                   |
 | Fecha             | 10/02/2024                                                                                                                                                                                                                                                                                                             |
+
+
+
+
+## Diagrama de Secuencia
+
+<img src="secuencia.png">
