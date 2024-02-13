@@ -115,4 +115,4 @@
 
 ## Diagrama de Secuencia
 
-<img src="secuencia.png">
+<img src="Banco.png">
