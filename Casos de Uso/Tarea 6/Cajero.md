@@ -2,6 +2,8 @@
 
 ## ACTORES
 
+<img src="Diagram.png">
+
 | Actor           | Sistema Administrativo del Cajero                                                                                                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descripción     | El sistema administrador de banco es una entidad encargada de gestionar la aplicación del diagrama de casos de uso y controlar el sistema relacionado con las operaciones bancarias.                                |
