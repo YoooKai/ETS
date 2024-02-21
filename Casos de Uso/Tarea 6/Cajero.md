@@ -116,3 +116,7 @@
 ## Diagrama de Secuencia
 
 <img src="Banco.png">
+
+## Diagrama de Actividades
+
+<img src="ActivityDiagram1.png">
