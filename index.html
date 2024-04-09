@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Propietario y Vehículo</title>
+</head>
+<body>
+    <form action="#" method="POST">
+        <fieldset>
+            <legend>Datos del Propietario</legend>
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required><br><br>
+            <label>Sexo:</label>
+            <input type="radio" id="hombre" name="sexo" value="hombre" checked>
+            <label for="hombre">Hombre</label>
+            <input type="radio" id="mujer" name="sexo" value="mujer">
+            <label for="mujer">Mujer</label><br><br>
+        </fieldset>
+        <fieldset>
+            <legend>Datos del Vehículo</legend>
+            <label for="marca_modelo">Marca/Modelo:</label>
+            <input type="text" id="marca_modelo" name="marca_modelo" required><br><br>
+            <label for="matricula">Matrícula:</label>
+            <input type="text" id="matricula" name="matricula" required><br><br>
+
+            <label for="caracteristicas">Características:</label><br>
+            <input type="checkbox" id="utilitarios" name="caracteristicas" value="Utilitarios" checked>
+            <label for="utilitarios">Utilitarios</label><br>
+            <input type="checkbox" id="todo_terreno" name="caracteristicas" value="Todo Terreno">
+            <label for="todo_terreno">Todo Terreno</label><br>
+            <input type="checkbox" id="alta_gama" name="caracteristicas" value="Alta Gama" checked>
+            <label for="alta_gama">Alta Gama</label><br><br>
+
+            <label for="otros_datos">Otros datos:</label><br>
+            <input type="checkbox" id="servofrenos" name="otros_datos" value="Servofrenos" checked>
+            <label for="servofrenos">Servofrenos</label>
+            <input type="checkbox" id="elevalunas" name="otros_datos" value="Elevalunas" checked>
+            <label for="elevalunas">Elevalunas</label>
+            <input type="checkbox" id="remolque" name="otros_datos" value="Remolque">
+            <label for="remolque">Remolque</label><br><br>
+        </fieldset>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
