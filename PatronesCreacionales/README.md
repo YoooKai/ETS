@@ -38,4 +38,4 @@ El esquema sería el siguiente:
 
 Y el ejemplo que yo he creado con la temática de criaturas mitológicas es:
 
-<img src"https://github.com/YoooKai/ETS/blob/main/PatronesCreacionales/diagrama.png">
+<img src="diagrama.png">
