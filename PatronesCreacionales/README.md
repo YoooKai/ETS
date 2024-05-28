@@ -38,4 +38,6 @@ El esquema sería el siguiente:
 
 Y el ejemplo que yo he creado con la temática de criaturas mitológicas es:
 
+<br>
+
 <img src="diagrama.png">
