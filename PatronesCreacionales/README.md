@@ -37,4 +37,5 @@ El esquema sería el siguiente:
 <img src="https://refactoring.guru/images/patterns/diagrams/factory-method/structure.png">
 
 Y el ejemplo que yo he creado con la temática de criaturas mitológicas es:
-<img src"diagram.png">
+
+<img src"diagrama.png">
